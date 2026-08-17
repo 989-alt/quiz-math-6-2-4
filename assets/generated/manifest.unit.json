@@ -3,7 +3,7 @@
  "batches": [
   "g6-2-4-construction"
  ],
- "generated_at": "2026-08-02T16:28:32+00:00",
+ "generated_at": "2026-08-17T13:33:00+00:00",
  "style_anchors": [
   "B1_pixel_keyvisual.png",
   "B2_pixel_lineup.png"
@@ -467,6 +467,22 @@
     "outline",
     "transparency",
     "alignment"
+   ],
+   "attempts": 1,
+   "qa": "pass"
+  },
+  {
+   "id": "mechanic_zone",
+   "group": "mechanic_zone",
+   "file": "mechanic_zone.png",
+   "kind": "single",
+   "native": 128,
+   "frames": 1,
+   "frame_w": 132,
+   "frame_h": 132,
+   "qa_skip": [
+    "density",
+    "outline"
    ],
    "attempts": 1,
    "qa": "pass"
